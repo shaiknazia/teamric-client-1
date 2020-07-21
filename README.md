@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project View
 
-![Add a Dot page view](AddaDot.png)
+![Add a Dot page view](images/AddaDot.png)
 
+<br />
 In the project directory, you can run:
 
 ### `npm start`
