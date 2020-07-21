@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project View
 
+![Dashboard page view](images/DashboardPage.png)
+![Profile page view](images/ProfilePage.png)
 ![Add a Dot page view](images/AddaDot.png)
+![Team Feedback page view](images/TeamsFeedback.png)
+
 
 <br />
 In the project directory, you can run:
